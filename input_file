@@ -1,0 +1,4 @@
+add_book Manhunting:Dava Sobel:4:328
+add_book A Book of Common Prayer:Dava Sobel:4:272
+add_book L'Orient c'est l'Orient:Dava Sobel:4:370
+search_by_author Dava Sobel:Manhunting

@@ -1,0 +1,4 @@
+add_book Hamlet:William Shakespeare:4:289
+add_book Hamlet in Purgatory:Stephen Greenblatt:4:344
+search_book Hamlet
+list_author Stephen Greenblatt
